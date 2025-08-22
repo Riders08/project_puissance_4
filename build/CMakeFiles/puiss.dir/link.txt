@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpuiss.a CMakeFiles/puiss.dir/game_puissance_4.c.o
+/usr/bin/ranlib libpuiss.a

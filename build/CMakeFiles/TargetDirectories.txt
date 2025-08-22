@@ -1,0 +1,6 @@
+/mnt/c/Users/lulur/OneDrive/Bureau/Travail/3rd_année/projet-puissance-4/build/CMakeFiles/puissance_4.dir
+/mnt/c/Users/lulur/OneDrive/Bureau/Travail/3rd_année/projet-puissance-4/build/CMakeFiles/test_game_puissance_4.dir
+/mnt/c/Users/lulur/OneDrive/Bureau/Travail/3rd_année/projet-puissance-4/build/CMakeFiles/puiss.dir
+/mnt/c/Users/lulur/OneDrive/Bureau/Travail/3rd_année/projet-puissance-4/build/CMakeFiles/test.dir
+/mnt/c/Users/lulur/OneDrive/Bureau/Travail/3rd_année/projet-puissance-4/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lulur/OneDrive/Bureau/Travail/3rd_année/projet-puissance-4/build/CMakeFiles/rebuild_cache.dir

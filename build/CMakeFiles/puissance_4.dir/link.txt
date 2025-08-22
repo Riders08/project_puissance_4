@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c99 -g -Wall -rdynamic CMakeFiles/puissance_4.dir/puissance_4.c.o -o puissance_4   -L/mnt/c/Users/lulur/OneDrive/Bureau/Travail/3rd_année/projet-puissance-4 

@@ -1,0 +1,13 @@
+#Voici la liste des types de fichier que je ne souhaite pas garder l'or d'un envoie au dépot en ligne
+*o
+*a
+*cmake
+
+#Liste des dossiers 
+/Testing
+/CMakeFiles
+
+#Liste des fichiers 
+cmake_install.cmake
+CMakeCache.txt
+CtestTestfile.cmake
